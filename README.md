@@ -1,7 +1,7 @@
 # voicecommander
 A very simple customizable voice command app
 
-This is my first git repository and i am still learing,so please inform on anything i might have done wrong
+This is my first git repository and i am still learning,so please inform on anything i might have done wrong
 
 To install,clone this repository and install the dependencies
 

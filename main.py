@@ -35,7 +35,7 @@ while x == 1:
         try:
 #the voice commands
             if "EXAMPLE" in r.recognize_google(audio):
-                tts.onetimetts("opening adofai")
+                tts.onetimetts("EXAMPLE")
                 os.startfile(
                     "PATH")
             elif "test" in r.recognize_google(audio):
